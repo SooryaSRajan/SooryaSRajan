@@ -13,6 +13,7 @@ Feel free to look around, you might stumble upon interesting stuff!
 
 ![](https://komarev.com/ghpvc/?username=SooryaSRajan&color=0a638e)
 <br>
-<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SooryaSRajan&hide=Jupyter%20Notebook,CSS)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SooryaSRajan&hide=Jupyter%20Notebook,CSS)
 <br>
- -->
+
