@@ -11,9 +11,8 @@ Feel free to look around, you might stumble upon interesting stuff!
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SooryaSRajan&theme=tokyonight&show_icons=true&count_private=true)
 <br>
 
-![](https://komarev.com/ghpvc/?username=SooryaSRajan&color=0a638e)
-<br>
-
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=SooryaSRajan&hide=Jupyter%20Notebook,CSS)
 <br>
 
+![](https://komarev.com/ghpvc/?username=SooryaSRajan&color=0a638e)
+<br>
