@@ -1,6 +1,6 @@
 ### Hey there, Soorya S heree! 😄
 
-I am a CSE undergrad currently doing his fourth year in Amrita Vishwa Vidyapeetham, Coimbatore. I have a knack for mobile applications and web pages, I also build full-stack stuff and a bit of ML and Cryptography. 
+I am a CSE undergrad currently doing his fourth year in Amrita Vishwa Vidyapeetham, Coimbatore. I have a knack for mobile applications and web pages, I also build full-stack stuff and a bit of ML and Cryptography. I've built a couple of cross-compilers too. 
 
 I love developing applications using Android and Flutter.
 
