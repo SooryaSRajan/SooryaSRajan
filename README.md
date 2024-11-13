@@ -1,8 +1,8 @@
 ### Hey there, Soorya S heree! 😄
 
-I am a CSE undergrad currently doing his fourth year in Amrita Vishwa Vidyapeetham, Coimbatore. I have a knack for mobile applications and web pages, I also build full-stack stuff and a bit of ML and Cryptography. I've built a couple of cross-compilers too. 
+I am a Computer Science graduate from Amrita Vishwa Vidyapeetham, Coimbatore, currently working as a full stack developer at Chargebee. I have a strong interest in mobile applications and web development, specializing in full-stack solutions with additional experience in machine learning, cryptography, and cross-compiler development.
 
-I love developing applications using Android and Flutter.
+I love developing applications using Android, Flutter and React.
 
 Feel free to look around, you might stumble upon interesting stuff!
 
