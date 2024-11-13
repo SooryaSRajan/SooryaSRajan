@@ -4,7 +4,7 @@ I am a Computer Science graduate from Amrita Vishwa Vidyapeetham, Coimbatore, cu
 
 I love developing applications using Android, Flutter and React.
 
-Feel free to look around, you might stumble upon interesting stuff!
+Feel free to look around, you might stumble upon tons of unfinished chat apps :)
 
 <a text-decoration="none" href="https://sooryasrajan.netlify.app/"> My portfolio 😃</a>
 
